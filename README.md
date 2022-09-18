@@ -7,3 +7,4 @@ Junior
 
 ---
 
+GitHub is awesome!
